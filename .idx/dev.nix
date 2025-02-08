@@ -44,7 +44,6 @@
       onCreate = {
         # Example: install JS dependencies from NPM
         npm-install = "npm install";
-        preview = "npx ns preview";
       };
       # Runs when the workspace is (re)started
       onStart = {
